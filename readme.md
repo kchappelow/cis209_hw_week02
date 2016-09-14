@@ -3,6 +3,9 @@ Find the number of years.
 
 Task #1: Using Eclipse, Write a program that prompts the user to enter the
 minutes (e.g., 1 billion), and displays the number of years and days for the minutes.
+
+Be sure to use comments and coding styles as discussed in class.
+
 For simplicity, assume a year has 365 days. Here is a sample run:
 
 ```
