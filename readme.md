@@ -1,5 +1,5 @@
-#Homework Assignment Week 2
-Find the number of years.
+#Homework Assignment Week 2 - Due 9/20/2017 7:15 p.m.
+#Find the number of years.
 
 Task #1: Using Eclipse, Write a program that prompts the user to enter the
 minutes (e.g., 1 billion), and displays the number of years and days for the minutes.
