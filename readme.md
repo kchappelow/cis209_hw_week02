@@ -10,7 +10,7 @@ Be sure to use comments and coding styles as discussed in class.
 For simplicity, assume a year has 365 days. Here is a sample run:
 
 ```
-Enter the number of years: 1000000000
+Enter the number of minutes: 1000000000
 1000000000 minutes is approximately 1902 years and 214 days.
 ```
 
